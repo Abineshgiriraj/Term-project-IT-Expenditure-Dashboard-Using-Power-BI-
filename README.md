@@ -1,1 +1,1 @@
-# Term-project-IT-Expenditure-Dashboard-Using-Power-BI-
+# IT-Expenditure-Dashboard-Using-Power-BI-
